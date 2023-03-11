@@ -80,6 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+.ipynb_checkpoints/
 
 # pyenv
 .python-version
@@ -106,6 +107,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+opencv/
 ENV/
 env.bak/
 venv.bak/
